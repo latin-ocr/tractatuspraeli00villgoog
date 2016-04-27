@@ -1,0 +1,46 @@
+De Superficiebus. ’171
+
+Radii obliqui CB, cA &e resolvunt polygonum inFlg·
+tot triangula aequalia ACB , BCD dte, quot habet
+latera (5. 443 )3 sed superficies unius ex his triangulis
+aequalis est ( 5493) producto medietatis unius ὲ late·
+ribus polygoni per suum radium rectum CR aequalem
+in omnibus (5444) ergo superficies totalis polygoni
+erit aequalis producto semiperimetri per suum radium
+rectum CR. .
+
+496 coron. 1. Cum peripheria circuli possit con- ¹
+siderari tanquam perimentum polygoni regularis infinito-
+rum laterum ( 5473 ) , patet quod radius circuli
+non distinguetur a radio recto3 consequenter superficies
+unius circuli erit aeqcalcs producto ejus circumferentiae
+per medietatem radii, seu semicircumfereutiie per
+radium. ’ ·
+
+497 Coroll. a. Ergo superficies unius sectoris cir·-
+culi est aequalis producto radii per medietatem arcus
+eum termmantis.
+
+1 498 >Schol. Ad inveniendam superficiem circuli,vel
+quod idem est, ad inveniendam quadraturam circuli,
+necesse foret cognoscere rationem radii ad circumferen- ,,
+tiam 3 quod quidem hucusque exacte invenire non potuit3 ’
+tantum sufficienti ‚approximatione inventa est ratio dia·
+'rr'tetri ad circumferentiam , quae est ut 7 ad aa, seu't ’111
+100 ad 3143 seu ut 113 ad 355 , uel exactius ut*·1·?ad;‚3y
+·1415926535-897932 cum aliis 111 deeimal. ·. ¹.
+
+499 Probl. 1. Data diametra, seu circumferentia
+anius circuli, invenire superficiem. ζ. ·,,·
+
+Sol. 1. Habendo rationem diametri ad peripherianl
+( §1498 )ί da'to quolibet 'er llis, invenietur aliud( 5. 217). ’
+a? Multiplicetur circumferentia ρετ quartam partem
+
+40
+
+diametri3 productumjerit area circuli( 5. 496). ’
+·’ ’“ Co-
+
+ 
+

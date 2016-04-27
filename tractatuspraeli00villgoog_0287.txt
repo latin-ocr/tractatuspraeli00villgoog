@@ -1,0 +1,47 @@
+‘ungena (ras )=&c
+
+Eodem modo procedetur rn qualibet alra curva· ac ’
+
+profecto determinata, hac methodo ‚‚subtangente ha-
+
+bebimus semper duo puncta, ex quibus tangens due .
+
+possit.
+
+AlRTICULUS 111.
+
+De usu calcula· dfferentialis tn methodo de maximis, J
+
+ἐφ’ minimis.
+
+823 COgnita functione repraesentante naturam curvae
+
+facile dignoscetur num fruatur aut non maxi ,
+
+tnis ‚ δι minimis. Nam si incremento abscissarum respon-
+
+det incrementum rn ordinatis usquead infinitom‚curva ca· ’
+
+tebit maxima applicata. Si crescentibus abscissis, decres-
+cunt ordinatae usque ad u ‚ curva carebit minima ordinata.
+Si ordinatae crescant usque in infinitum, bt non decres-
+cant usquead o, curva habebit unam. aut plures mi-
+nimas, nullam autem maximam. E converso, si ordi-
+Ι natae decrescant usque ad o, nec crescant usque iu in·
+finitum, necesse est quod curva habeat unam, aut plu-
+res maximas, sed nuliam minimam. Denique si ordina·
+tae nec crescant usque in infinitum, nec decrescant us·
+que ad o, proculdubio curva habebit aliquam maximam,
+a & aliquam minimam.
+Hoc supposito cunr per retiam indefinitam sig-
+
+nificari possit quaelibet quantitas variabilis (691 )‚
+sequitur quod quaelibet quantitas maxima, aut! mi·
+
+nima, representari possit per applicatam curvae3
+ex
+
+i
+
+ 
+

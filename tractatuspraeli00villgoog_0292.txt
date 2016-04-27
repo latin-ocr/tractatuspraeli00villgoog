@@ -1,0 +1,37 @@
+De Calculo integrali-3 &a '287
+830 Schol. Ad denotandam integralem cujuslibet Fig-
+differentialis, anteponitur littera S ,ς sie sdsr denotat in.-
+tegralem differentialis dor, S’ (ador - auda.) significat
+integralem correspondentem differentiali adu-uadum
+idcirco litterarum d ‚, S. usus in calculo infinitesimali·
+aequivocationibus locum preberet posset.
+
+ARTICULUS ΙΙ.
+
+, De Integraume quantitatum afferentialium.
+
+831 PRobl. Invenire regulam fundamentalem ad tm
+tegrandas·' quantitates differentiales. ·
+Posito& quod differentiale quantitatis· cujuslibet va-
+riabilis est productum ejus exponentis per eandem quan·
+titatem‚diminuto exponente in una unitate‚multiplicato
+hoc producto per differentiale radicis (807 ) ‚ da quod
+calculus· integralis est inversus respectu differentialis,
+patet quod ad integrandam quantitatem quamlibet diffe-
+rentialem‚ observari debet sequens
+Regula: Augeatur una unitate exponens quantitatis
+differentialis, dt di'vidatur' postmodum tota expressiit
+differentialis per differentiale radicis ¹multiplicata per'
+exponentem ita auctum. Ι
+832 'CorolL Cum omittantur, quando differentiatur
+aliqua quantitas, quantitates constantes quae in expres-
+sione inveniuntur segregata a variabilibus, eo quod eju's
+, differentiale sit :0 (803 )‚ infertur quod etiam dum
+integratur expressio differentialis per regulam anterio*- .
+rem, asseri nequit quod quantitas iude proveniens sit
+integralis completa ς, idcirco integrali per illam regulam
+resultanti necesse est semper addere quantitatem indeter-
+, ‘ a un-
+
+ 
+

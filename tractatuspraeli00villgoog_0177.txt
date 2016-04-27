@@ -1,0 +1,48 @@
+172 Pars u.- Art. ι.
+
+Fig. 500 Coroll. 1. Si diameter unius circuli sit: 100
+etit ejus circumferentia :314 ( 5 498); & superficies
+40: 7850 ( 5499 )3 quadratum diametri erit :10000
+( 5 80 ): ergo quadratum diametri unius circuli est ad
+ejus superficiem proxime ut 10000 ad 7850 , seu ut
+1000 ad 785.
+
+501 Coroll. 2. Ergo data area unius circuli, inve«
+nietur ejus diameter, si quaerendo quartum terminum
+proportionalem ad 785, 1000 ‚ δι ad aream datam
+( 5. 217 ), extrahamus ejus radicem quadratam.
+
+’ 502 Probl. 2. Data diametro unius duculi, d? ra·
+tione in gradibus unius arcus -ad circumferentiam ‚ iu«.-
+venire aream sectoris arco correspondentem.
+
+Sol.1.⁰ Quaeratur' circumferentia circuli (55 498,217).
+
+2.⁰ Quaeratur quartum proportionale ad 360⁰, ad ar-
+cum datum , bt ad circumferentiam inventam (217 ),
+habebitur longitudo arcus dati in eadem mensura dia·
+metri datae. ·
+
+35¹ Multiplicetur arcus inventus per quartam partem
+diametri data, bt productum erit area sectoris (497 ).
+
+503 Probl. 3?- Data altitudine F A segmenti, Β di-
+
+55 nitro F D chordae iliud efformatus, invenire superficiem.
+Sol. 1.⁰ Queratur diameter AL ( 466), bt dimidio
+
+CA describatur (303) circulus per puncta Β , bt D
+
+transiturus ( 55 333, 298 ). Ι
+2.⁰ Ducantur radii CB, CD, bt comperiatur nuj-
+
+merus graduum arcus DAB ( 319 ).
+
+3.ο His datia quaeratur auperfieies sectoris BCADB
+(502⁰)l2um sit DB = aDF, quae est quantitas cognita,
+dt CF: CA -ΡΑ , quantitates itidem cognite, iuve-
+
+nietut area trianguli DCB (493). ¹ θιὼ.
+
+ 
+
